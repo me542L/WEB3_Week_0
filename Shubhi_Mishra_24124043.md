@@ -1,6 +1,6 @@
 # Problem 1: Explaining Consensus
 
-Imagine you and your friends are playing a game using gold coins. A gives B 5 coins, B gives C 2 coins, and C gives D 1 coin. After some time everyone may forget who gave what, or someone might even try to cheat by saying, “I never received those coins,” or “I still have all my coins.” To avoid confusion, all the transactions are written down carefully in a notebook. The notebook keeps a complete record of who gave coins to whom, making the game fair and organized.
+Imagine a game is being played using gold coins. A gives B 5 coins, B gives C 2 coins, and C gives D 1 coin. After some time everyone may forget who gave what, or someone can try to cheat by saying, “I never received those coins,” or “I still have all my coins.” To avoid confusion, all the transactions are written down carefully in a notebook. The notebook keeps a complete record of who gave coins to whom, making the game fair and organized.
 
 Now imagine this notebook is not a normal paper notebook but a digital notebook on the internet. Instead of being kept by just one person thousands of computers around the world keep their own copies of it. Whenever a new transaction happens, all the computers update their copies.
 
